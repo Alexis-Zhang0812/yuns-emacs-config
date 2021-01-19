@@ -23,5 +23,8 @@
 (use-package racket-mode
   :ensure t)
 
+(use-package julia-mode
+  :ensure t)
+
 (provide 'init_pkgs)
 ;;; init_pkgs.el ends here
